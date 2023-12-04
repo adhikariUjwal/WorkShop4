@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 namespace ConsoleApp4
 {
     internal interface IPlay
@@ -11,3 +11,4 @@ namespace ConsoleApp4
         }
     }
 }
+*/
